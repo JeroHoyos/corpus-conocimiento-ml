@@ -29,7 +29,7 @@ Por ello podrás encontrar aquí un corpus amplio con el que poder estudiar esta
 
 ---
 
-[La lista de todos los libros](collections/books.md)
+[La lista completa de libros recomendados](collections/books.md)
 
 ---
 

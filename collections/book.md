@@ -4,7 +4,8 @@
 - [Linear Algebra Done Right](https://link.springer.com/book/10.1007/978-3-319-11080-6)  
   Un libro moderno y riguroso de álgebra lineal que prioriza la comprensión conceptual sobre el cálculo mecánico. Es ideal para construir bases sólidas en espacios vectoriales, transformaciones lineales y teoría espectral, fundamentales para Machine Learning y Deep Learning.
 
----
+- [Matrix Computations](https://www.amazon.com/Matrix-Computations-Gene-H-Home/dp/1420060255)  
+  Un texto clásico de **Golub & Van Loan** centrado en métodos numéricos y algoritmos eficientes para operaciones con matrices. Es fundamental si te interesan las bases computacionales del álgebra lineal aplicada a Machine Learning, optimización y sistemas de gran escala.
 
 ## Aprendizaje Automático
 
