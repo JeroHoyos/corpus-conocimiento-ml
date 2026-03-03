@@ -29,7 +29,7 @@ Por ello podrás encontrar aquí un corpus amplio con el que poder estudiar esta
 
 ---
 
-[La lista completa de libros recomendados](collections/books.md)
+[La lista completa de libros recomendados](collections\book.md)
 
 ---
 
@@ -54,7 +54,7 @@ Por ello podrás encontrar aquí un corpus amplio con el que poder estudiar esta
 
 ---
 
-[La lista completa de cursos recomendados](collections/courses.md)
+[La lista completa de cursos recomendados](collections\courses.md)
 
 ---
 
@@ -79,5 +79,5 @@ Por ello podrás encontrar aquí un corpus amplio con el que poder estudiar esta
 
 ---
 
-[La lista completa de websites recomendados](collections/websites.md)
+[La lista completa de websites recomendados](collections\websites.md)
 
