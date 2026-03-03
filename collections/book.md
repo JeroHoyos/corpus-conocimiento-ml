@@ -16,7 +16,7 @@
   Un libro corto y directo que ofrece una visión panorámica de los conceptos esenciales del machine learning. Es excelente como introducción rápida o como mapa general antes de profundizar en textos más técnicos.
   
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)  
-  Un libro práctico y moderno que combina teoría con ejemplos implementados en **Scikit-Learn y TensorFlow**. Perfecto para quienes quieren **aprender haciendo**, con ejercicios paso a paso, código real y casos aplicados de ML y DL. Excelente para fortalecer habilidades prácticas después de dominar los fundamentos teóricos.
+  Es un buen libro para arrancar. Lo principal es que desde el primer momento te pone a tirar código en Python (pienso yo que así uno digiere mejor estos temas), explica muy bien como bajar toda esa teoría estadística y matemática que hay detras de los ML y DL  a código real y solo con un conocimiento intermedio de Estadística y Python puedes estudiarlo, el resto todo te lo da el libro "mascadito".
 ---
 
 ## Aprendizaje Profundo
